@@ -218,6 +218,19 @@ Disclaimer: I personally am NOT using local development so I don't know much abo
 Aditionally, if you choose to deploy Jekyll using a local ruby installation, you can tell Jekyll to automatically categorize your blog posts by tags. You just need to set `link-tags: true` in `_config.yml`. Jekyll will then generate a new page for each unique tag which lists all of the posts that belong to that tag.
 
 
+## (sonlexqt) Advanced: Local development without Docker
+
+1. Clone the project  
+2. Inside the repository folder, run:
+
+    ```
+    bundle update && bundle install
+    bundle exec && jekyll serve
+    ```
+
+3. View your website at <http://localhost:4000>.
+
+
 ## Credits
 
 This template was not made entirely from scratch. I would like to give special thanks to:
