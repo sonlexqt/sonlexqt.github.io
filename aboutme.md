@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: pro·gram·mer (n) An organism capable of converting caffeine into code.
+subtitle: |
+  pro·gram·mer (n) An organism capable of 
+  converting caffeine into code.
 ---
 
 My name is **Son Le**. I have the following qualities:
