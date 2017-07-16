@@ -7,7 +7,7 @@
 
 **Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites.  [Check out a demo](http://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes.  You can also look at [my personal website](http://deanattali.com) to see it in use, or see examples of websites other people created using this theme [here](#showcased-users-success-stories).
 
-**This theme was developed for non-commerical purposes. For commerical usage, or if you enjoy this theme, please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
 
 <p align="center">
   <a href="https://www.paypal.me/daattali">
@@ -178,11 +178,12 @@ Want your website featured here? [Contact me](http://deanattali.com/aboutme#cont
 | [bigdata.juju.solutions](http://bigdata.juju.solutions) | Creating Big Data solutions Juju Solutions |
 | [joecks.github.io/clipboard-actions](http://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
 | [deanattali.com/shinyjs](http://deanattali.com/shinyjs/) | shinyjs - an R package |
-| [embedded.guide](http://embedded.guide) | Writing an Embedded OS |
 | [blabel.github.io](http://blabel.github.io) | Library for canonicalising blank node labels in RDF graphs |
 | [reactionic.github.io](http://reactionic.github.io) | Create iOS and Android apps with React and Ionic |
 | [ja2-stracciatella.github.io](http://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
 | [PatientOutcomeFunding.org](http://www.patientoutcomefunding.org/) | Patient Outcome Funding |
+| [ddocent.com](http://ddocent.com/) | RADSeq Bioinformatics and Beyond |
+| [fightthecube.com](http://fightthecube.com/) | Fight The Cube (personal finance education) |
 
 ### Personal websites
 
@@ -197,7 +198,7 @@ Want your website featured here? [Contact me](http://deanattali.com/aboutme#cont
 | [sjackman.ca](http://sjackman.ca) | Shaun Jackman | PhD candidate in bioinformatics |
 | [epwalsh.com](https://epwalsh.com) | Evan Pete Walsh | PhD candidate (Statistics and Mathematics) at Iowa State University ||
 | [anudit.in](http://www.anudit.in/) | Anudit Verma | Engineering student |
-| [aqibsaeed.github.io](http://aqibsaeed.github.io/) | Aaqib Saeed | Computer Science grad student |
+| [sharepointoscar.github.io](http://sharepointoscar.github.io) | Oscar Medina | Independent Hacker |
 
 
 ## Advanced: Local development using Docker
@@ -225,7 +226,7 @@ Aditionally, if you choose to deploy Jekyll using a local ruby installation, you
 
     ```
     bundle update && bundle install
-    bundle exec && jekyll serve
+    bundle exec jekyll serve
     ```
 
 3. View your website at <http://localhost:4000>.
