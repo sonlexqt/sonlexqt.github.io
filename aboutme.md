@@ -6,7 +6,7 @@ subtitle: |
   converting caffeine into code.
 ---
 
-My name is **Son Le**. I have the following qualities:
+Hi there, welcome to my blog.
 
 - TODO XIN
 - ...
