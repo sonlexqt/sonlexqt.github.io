@@ -6,10 +6,10 @@ subtitle: |
   converting caffeine into code.
 ---
 
-Hi there, welcome to my blog.
+#### Hi there, welcome to my blog.  
+ 
+![](http://i.imgur.com/uucq2te.jpg)
 
-- TODO XIN
-- ...
-- ...
+This is where I write about the programming concepts, interesting books that I've read, or how much I love creating things.  
 
-What else do you need?  
+*What else do you need?*  
